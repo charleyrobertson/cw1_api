@@ -6,6 +6,9 @@ To use this API, clone the repository into VS Code using the following the comma
 ````` javascript 
 clone https://github.com/charleyrobertson/cw1_api
 ````
+```` javascript
+npm install
+````
 
 If you are using Windows use the following line of code to go to the correct folder:
 ```` javascript
